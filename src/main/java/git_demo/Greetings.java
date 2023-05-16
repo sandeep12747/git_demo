@@ -16,5 +16,5 @@ public class Greetings {
 		
 		return num1+num2;
 	}
-
+/* end of line*/
 }
