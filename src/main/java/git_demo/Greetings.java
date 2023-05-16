@@ -4,6 +4,9 @@ public class Greetings {
 	public static void main(String[] args) {
 		System.out.println("hi");
 		greet("sandeep");
+		
+		Welcome wl= new Welcome();
+		wl.printMessage("sandeep");
 	}
 	
 	public static void greet(String message) {
